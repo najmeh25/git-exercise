@@ -13,7 +13,7 @@ Here are 500 trivia questions for a mega quiz. Write down your answers!
 **5. What is the hardest natural substance on Earth?**
 
 **6. Who painted the Mona Lisa?**
-
+mona lisa
 **7. What is the smallest country in the world?**
 
 **8. In which country did the Olympic Games originate?**
